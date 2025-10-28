@@ -17,6 +17,13 @@
 
 ---
 
+## 🖼️ Screenshots
+
+### 🟢 Main Menu / Game Start
+![Snake Game - Main Screen](public/screenshot-main.png)
+
+---
+
 ## 🛠️ Tech Stack
 
 - **React 18+**
